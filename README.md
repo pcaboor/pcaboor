@@ -20,5 +20,3 @@ Architecture      █████████████████░░░  
 `TypeScript` `Next.js` `React` `Python`
 `Kubernetes` `Docker` `Argo CD` `PostgreSQL`
 `AI Agents` `MCP` `Backstage` `Cloud Native`
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcaboor\&show_icons=true\&hide_border=true)](https://github.com/pcaboor)
