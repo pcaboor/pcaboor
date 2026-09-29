@@ -1,6 +1,6 @@
 # Hey, I'm Pierre
 
-**Software Engineer · AI Builder&nbsp;&nbsp;<img src="programmer.gif" width="40" />&nbsp;&nbsp;· Open Source**
+**Software Engineer · AI Builder&nbsp;&nbsp;<img src="cat-dev.gif" width="60" />&nbsp;&nbsp;· Open Source**
 
 I like building things that are slightly too ambitious for a weekend.
 Currently turning that habit into useful software. 🚀
