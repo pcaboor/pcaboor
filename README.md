@@ -18,8 +18,10 @@ Architecture      █████████████████░░░
 **Things I enjoy working with:**
 
 `TypeScript` `Next.js` `React` `Python`
-`Kubernetes` `Docker` `Argo CD` `PostgreSQL`
-`AI Agents` `MCP` `Backstage` `Cloud Native`
+`Kubernetes` `Docker` `Argo CD` `Harbor`
+`PostgreSQL` `MySQL` `OpenSearch`
+`AI Agents` `MCP` `OpenAI` `Claude Code`
+`Backstage` `Cloud Native`
 
 <p>
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1280px-Typescript.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="60" />
@@ -35,4 +37,10 @@ Architecture      █████████████████░░░
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="60" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsu6bYNVeE6ZelaXwPS7iiC1vILQI-07TfKOIaPEEj-N_-NBZbxJ4aJ4Ph&s=10" height="60" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK82acNUhc_HCO4P3So5BtCezJAnKJhYN8jijs_wwz0vUWnMOV8X3mmdA&s=10" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
+  <img src="https://avatars.githubusercontent.com/u/80134844?s=280&v=4" height="60" />
+  <img src="https://avatars.githubusercontent.com/u/40275816?s=280&v=4" height="60" />
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=280&v=4" height="60" />
+  <img src="https://cdn.simpleicons.org/claude" height="60" />
 </p>
