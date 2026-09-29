@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pierre 👋
 
-<!--
-**pcaboor/pcaboor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder @ Conotion AI  
+🏗️ Software Engineer / Cloud & Platform Engineering  
+🤖 AI Agents · Kubernetes · DevOps · Open Source
 
-Here are some ideas to get you started:
+I'm building tools around AI agents, developer platforms and
+cloud-native infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently working on
+
+- 🤖 Conotion AI — AI agent teams
+- ☸️ Kubernetes & Platform Engineering
+- 🧩 Developer Experience & Internal Developer Platforms
+- 🌐 Open Source projects
+
+### ⚡ Tech
+
+`TypeScript` `Next.js` `React` `Python` `Kubernetes` `Docker`
+`Argo CD` `PostgreSQL` `AI Agents`
+
+### 📫 Contact
+
+- 🌐 [conotion.ai](https://conotion.ai)
+- 💼 LinkedIn
+- 🐙 GitHub
